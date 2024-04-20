@@ -1,0 +1,9 @@
+venv
+db.sqlite3
+
+Create_Venv_Django.bat
+Start_Venv_Django.bat
+Create_app.ps1
+make_migs_migrate.bat
+
+Terminal.bat
