@@ -7,3 +7,5 @@ Create_app.ps1
 make_migs_migrate.bat
 
 Terminal.bat
+
+commit.bat
