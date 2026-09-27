@@ -9,3 +9,7 @@ make_migs_migrate.bat
 Terminal.bat
 
 commit.bat
+
+# Cache do Python
+__pycache__/
+*.py[cod]
